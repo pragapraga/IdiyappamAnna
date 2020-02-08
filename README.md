@@ -18,3 +18,5 @@ App will have two logins
 2. Customers Login
 
 This is rough idea and we can build upon with other components as the time grows.
+
+:smiley:
