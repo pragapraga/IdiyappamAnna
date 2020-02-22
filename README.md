@@ -1,4 +1,4 @@
-# IdiyappamAnna :smile:
+# IdiyappamAnna :smile: :smile:
 This android based mobile app helps people who wants to have south indian home food called Idiyappam.
 
 The idea of this project hitted my mind when i was sleeping and forgot to call Idiyappam Anna as usually i do whenever mom is not available to 
